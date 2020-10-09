@@ -1,1 +1,1 @@
-My compilation of competitive progamming problems!
+My list of competitive progamming problems!
